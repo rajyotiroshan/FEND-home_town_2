@@ -1,0 +1,9 @@
+
+/*create burger symbol*/
+.ham_sym:hover{
+  cursor: pointer;
+}
+.ham_sym >div{
+  background: black;
+}
+/*makes footer a flex container*/
